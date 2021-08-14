@@ -6,7 +6,9 @@ This project is part of My Final Assignment at Polytechnic Institute of Nuclear 
 Please look forward to it!
 
 Frequently Asked Question (FAQ):
+
 Q:  Why are you making this project?
+
 A:  Long version: I love studying about game development and nuclear technology. It's a great opportunity for me to handle this project!
     Short version: I need to do this for my graduation's requirement
     
