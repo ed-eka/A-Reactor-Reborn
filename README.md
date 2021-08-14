@@ -25,6 +25,10 @@ Q:  What's with the title? It seems different with the official title you submit
 
 A:  Well, this title is my personal title that I use on my own personal version of the project. Yes, I took the inspiration from Final Fantasy XIV Online
 
+Q:  Where do you upload the assets?
+
+A:  I upload the assets to a separate cloud account that I manage
+
 Q:  Any place where we can contact you?
 
 A:  You can contact me via e-mail at ed.bleep@gmail.com
