@@ -3,6 +3,8 @@
 
 This project is part of My Final Assignment at Polytechnic Institute of Nuclear Technology's Virtual Visit Application for Kartini Reactor using Virtual Reality based on Unity
 
+**THIS REPOSITORY IS ONLY FOR DISTRIBUTING THE APPLICATION AND CODES THAT HAS BEEN CREATED BY ME FOR THE APPLICATION OUTSIDE OF THE CODES THAT PROVIDED BY UNITY**
+
 Please look forward to it!
 
 Frequently Asked Question (FAQ):
